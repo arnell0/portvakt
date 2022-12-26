@@ -1,0 +1,37 @@
+[
+    {
+        "path": "/api/users",
+        "method": "get",
+        "action": "read",
+        "table": "users"
+    },
+    {
+        "path": "/api/users",
+        "method": "post",
+        "action": "create",
+        "table": "users",
+        "hash": "password"
+    },
+    {
+        "path": "/api/users/:id",
+        "method": "get",
+        "action": "read",
+        "table": "users",
+        "filter_by": "id"
+    },
+    {
+        "path": "/api/users/:id",
+        "method": "post",
+        "action": "update",
+        "table": "users",
+        "filter_by": "id",
+        "hash": "password"
+    },
+    {
+        "path": "/api/users/:id",
+        "method": "delete",
+        "action": "delete",
+        "table": "users",
+        "filter_by": "id"
+    }
+]

@@ -1,0 +1,15 @@
+2022-10-22T14:12:17.947Z: TypeError: db.getUsers is not a function
+2022-10-22T14:12:45.947Z: TypeError: db.get is not a function
+2022-10-27T07:56:46.638Z: TypeError: db.get is not a function
+2022-10-27T07:57:12.926Z: TypeError: db.get is not a function
+2022-10-27T07:57:50.494Z: TypeError: db.reead is not a function
+2022-10-27T07:57:56.095Z: TypeError: db.reead is not a function
+2022-10-27T08:18:29.669Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 2
+2022-10-27T08:22:01.221Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+2022-10-27T08:23:18.463Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+2022-10-27T08:23:33.711Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+2022-10-27T08:26:36.603Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+2022-10-27T08:27:05.686Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 0
+2022-10-27T08:28:38.341Z: RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 1
+2022-10-27T08:30:51.257Z: Error: Illegal arguments: undefined, number
+2022-10-27T08:31:06.813Z: Error: Illegal arguments: undefined, number
